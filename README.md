@@ -2,7 +2,13 @@
 
 ## Setup
 
-Fork and clone [this repository](https://github.com/JoinCODED/TASK-Django-Templates).
+1. Fork and clone [this repository](https://github.com/JoinCODED/TASK-Django-Templates).
+2. Create a `virtual environment` and activate it.
+3. Install the requirements using `pip install -r requirements.txt`.
+4. Run migrations using `python manage.py migrate`.
+5. Create an admin user using `python manage.py createsuperuser`.
+6. Run the server using `python manage.py runserver`.
+7. Go to the admin panel and create several products.
 
 ## Detail Page
 
