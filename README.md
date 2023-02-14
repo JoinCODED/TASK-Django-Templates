@@ -1,6 +1,8 @@
 ## Task
 
-Continue working on the previous task repository, [Views and URLs](https://warehouse.joincoded.com/assignments/views-and-urls).
+## Setup
+
+Fork and clone [this repository](https://github.com/JoinCODED/TASK-Django-Templates).
 
 ## Detail Page
 
